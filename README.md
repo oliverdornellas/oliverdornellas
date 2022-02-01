@@ -1,7 +1,7 @@
 <h2>Olá, Eu sou o Oliver Dornellas👋🏽</h2>
 <li>👨🏽‍💻 <strong>Cursando Superior em Análise e Desenvolvimento de Sistemas
 <li>🌱 Entusiasta do Desenvolvimento Web
-<li>📫 Contate-me no E-mail: oliverdornellas20@hotmail.com
+  <li>📫 Contate-me no E-mail:<a href="https://mail.google.com/mail/u/0/?dispatcher_command=master_lookup#inbox?compose=DmwnWrRspGqBdNfchstzqmWltbmXGhXWXQmCZDxJjBMpMcqMdHSQdBqtMTKSFpQWJTSJwmXnlctv">oliverdornellas20@gmail.com</a>
   <p>
   
   <div align="">

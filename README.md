@@ -4,7 +4,7 @@
 <p>
 <li>👨🏽‍💻 <strong>Cursando Superior em Análise e Desenvolvimento de Sistemas
 <li>🌱 Entusiasta do Desenvolvimento Web
-<li>📚 Estudando CSS3 e JavaScript
+<li>📚 Estudando JavaScript, TypeScript e Java 
   
   <p>
   

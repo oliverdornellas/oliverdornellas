@@ -4,7 +4,7 @@
 <p>
 <li>👨🏽‍💻 <strong>Cursando Superior em Análise e Desenvolvimento de Sistemas
 <li>🌱 Entusiasta do Desenvolvimento Web
-<li>📚 Estudando JavaScript, TypeScript e Java 
+ 
   
   <p>
   
@@ -19,6 +19,15 @@
   <img align="center" alt="oliver-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="42" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" height="70" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="70" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" />
+
+          
+          
+  
+    
+          
+
     
 </div>
     <hr>

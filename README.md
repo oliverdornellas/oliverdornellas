@@ -2,7 +2,7 @@
 <a href = "mailto:oliverdornellas20@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>📭
 <p>
-<li>👨🏽‍💻 <strong>Cursando Superior em Análise e Desenvolvimento de Sistemas
+<li>👨🏽‍💻 <strong>Formado em Análise e Desenvolvimento de Sistemas
 <li>🌱 Entusiasta do Desenvolvimento Web
  
   
